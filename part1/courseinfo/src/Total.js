@@ -1,0 +1,1 @@
+const Total = (props) => <p>Number of exercises {this.props.exercises1 + this.props.exercises2 + this.props.exercises3}</p>
