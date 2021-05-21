@@ -1,0 +1,9 @@
+{
+  "short_name": "Anecdotes",
+  "name": "FullStackOpen Anecdotes",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
